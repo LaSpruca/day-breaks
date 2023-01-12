@@ -1,0 +1,6 @@
+name: DayBreaks
+version: '${version}'
+main: nz.laspruca.daybreaks.DayBreaks
+api-version: 1.19
+authors: ["Nathan Hare <contact@laspruca.nz>", "Taine Reader <taine.reader@gmail.com>"]
+description: You must live underground
